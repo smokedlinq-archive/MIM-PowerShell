@@ -1,1 +1,0 @@
-C:\w\MIM-PowerShell\.sonarqube\out\\MIM.PowerShell_5985
