@@ -1,0 +1,6 @@
+projectKey=wegmans:mim.powershell
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/wegmans:mim.powershell
+ceTaskId=AV0UHmWnE9d7-58kdcSZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0UHmWnE9d7-58kdcSZ
